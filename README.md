@@ -6,8 +6,8 @@
 ```plaintext
 MyProject/
 │
-├── backend/                <-- PYTHON WORKSPACE
-│   ├── venv/               (Virtual Environment)
+├── backend/                <-- FASTAPI WORKSPACE
+│   ├── env/               (Virtual Environment)
 │   ├── main.py             (Your API Code)
 │   └── requirements.txt    (List of Python libraries)
 │
