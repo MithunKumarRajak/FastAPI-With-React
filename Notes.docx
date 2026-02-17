@@ -1,0 +1,8 @@
+Summary Flow
+Notebook: Train -> Save (.pkl)
+
+Move Files: .pkl files ko backend folder mein copy karo.
+
+FastAPI: Load (.pkl) -> Receive PDF -> Transform Text -> Predict -> Return JSON.
+
+
